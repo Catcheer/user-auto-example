@@ -1,0 +1,23 @@
+{
+  "name": "user-auto-example",
+  "version": "1.0.0",
+  "description": "mongo example",
+  "main": "index.js",
+  "scripts": {
+    "test": "no",
+    "start": "node index"
+  },
+  "keywords": [
+    "mongo"
+  ],
+  "author": "catcheer",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "jade": "^1.11.0",
+    "mongodb": "^2.2.33"
+  }
+}
